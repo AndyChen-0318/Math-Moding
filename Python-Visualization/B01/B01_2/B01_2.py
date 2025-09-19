@@ -145,4 +145,6 @@ g.figure.subplots_adjust(right=0.98, top=0.92, left=0.08, bottom=0.07)
 g.figure.set_size_inches(8, 7)
 g.figure.set_dpi(150)
 
+plt.savefig("B01_2.png")
+
 plt.show()
