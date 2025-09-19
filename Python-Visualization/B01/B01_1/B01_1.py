@@ -64,4 +64,5 @@ ax.set_xlabel("X轴")
 ax.set_ylabel("Y轴")
 
 plt.tight_layout()
+plt.savefig("B01_1.png")
 plt.show()
